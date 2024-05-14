@@ -2,4 +2,4 @@
 
 .java = Java proj
 
-main.js = JS proj
+.js = JS proj
